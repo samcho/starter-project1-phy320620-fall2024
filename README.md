@@ -14,6 +14,7 @@ VMD is a powerful program that can be used to render biomolecular images and MD 
 ```
 module load apps/vmd/1.9.4a57
 ```
+Note: It is much slower to run VMD on the DEAC HPC Cluster because the graphics needs to be transferred across a network instead of being rendered directly on your laptop.
 
 2. Run VMD by typing “vmd” in your Terminal or Powershell program. There will be two windows that open: 1) VMD Main and 2) OpenGL Display. Open up and load a biomolecule by going to the “VMD Main” window and selecting File --> New Molecule… . A new window titled “Molecule File Browser” will open.
 
