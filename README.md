@@ -65,3 +65,31 @@ Using the NewCartoon representation, from the Coloring Method dropbox, here are 
 ![image](https://github.com/user-attachments/assets/2cd39f38-647b-48f6-a349-c3b8b046d70b)
 
 7. In the Selections tab are tables of keywords that you can use to select only a portion of the protein to display. There are a lot of options that we cannot cover here. Here are the results of a few selections that you can type in the “Selected Atoms” with results:
+
+chain A
+![image](https://github.com/user-attachments/assets/d4de98df-4a46-43f1-971c-73666a31a20b)
+
+(chain A) and (resid 12 to 26)
+![image](https://github.com/user-attachments/assets/2262e303-d48d-4717-b58f-da50cf716ea9)
+
+8. The "Create Rep" button can be used to create multiple representations that result in a mixture of selections with different styles and colors all displayed at the same time. Here is the result with the following representations:
+
+Representation 1: Selected Atoms: chain A,  Coloring Method: ResType, and Drawing Method: VDW
+Representation 2: Selected Atoms: chain B, Coloring Method: ColorID (4), and Drawing Method: NewCartoon 
+![image](https://github.com/user-attachments/assets/13b09605-8477-4844-8de9-a827edc5ce1a)
+
+8. To save your work, in the “VMD Main” window, select File --> Save Visualization State… . After this, you can exit VMD and come back to your work later. To load your saved work, in the “VMD Main” window, select File --> Load Visualization State… .
+
+![image](https://github.com/user-attachments/assets/2c124515-5a9a-4c2a-b6bc-a7bd312dd6da)
+![image](https://github.com/user-attachments/assets/8f8278ec-e17d-4043-a7ae-908415af28d5)
+
+9. Edit this README.md file to post your rendered structure of the protein below. Your rendered image should not look exactly like mine, and I instead encourage you to turn in a more creative looking image. Repeat this exercise above with the PDB ID 1kf1 and turn in a rendered image of the RNA below.
+
+
+VMD Rendered Protein (PDB ID: 2KWF) Image here:
+
+
+VMD Rendered RNA (PDB ID: 1KF1) Image here:
+
+
+
