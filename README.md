@@ -10,7 +10,11 @@ Website References: [ VMD Tutorial ](http://www.ks.uiuc.edu/Training/Tutorials/v
 
 VMD is a powerful program that can be used to render biomolecular images and MD simulation trajectories and perform basic analyses on them. To get your feet wet and get you familiar with the many, many features of VMD, you will learn to load a biomolecule, change its representations, and render it using Povray.
 
-1. Download the latest version of VMD from their [ website ](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD).
+1. Download the latest version of VMD from their [ website ](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD). Alternatively, you can log into the DEAC HPC Cluster and type the following:
+```
+module load apps/vmd/1.9.4a57
+```
+
 2. Run VMD by typing “vmd” in your Terminal or Powershell program. There will be two windows that open: 1) VMD Main and 2) OpenGL Display. Open up and load a biomolecule by going to the “VMD Main” window and selecting File --> New Molecule… . A new window titled “Molecule File Browser” will open.
 
 ![image](https://github.com/user-attachments/assets/dca126fb-6736-443a-9a6c-1754b004335a)
